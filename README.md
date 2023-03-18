@@ -11,7 +11,7 @@ _To view these Tableau Dashboards in Tableau Public, click on the hypertext link
 <br/><br/>
 - Swiggy data Analysis 
 
-_To download swiggy dataset : (https://www.kaggle.com/datasets/aniruddhapa/swiggy-restaurants-dataset-of-metro-cities)_
+_To download swiggy dataset : [Here](https://www.kaggle.com/datasets/aniruddhapa/swiggy-restaurants-dataset-of-metro-cities)_
 
 (https://public.tableau.com/app/profile/aszad.ahmad/viz/Book3_16785229397880/Dashboard1)
 
@@ -19,11 +19,15 @@ _To download swiggy dataset : (https://www.kaggle.com/datasets/aniruddhapa/swigg
 <br/><br/>
 - Reene Cosmetic Ad campaign data analysis
 
+_To download reene cosmetic dataset : [Here](https://github.com/ahmadaszad/Projects/tree/main/Reene%20cosmetic%20dataset)_
+
 (https://public.tableau.com/app/profile/aszad.ahmad/viz/ReneeCosmeticsAdcampaignReachAnalysis/Advertismentanalysis)
 
 ![Screenshot 2023-03-14 190744](https://user-images.githubusercontent.com/116201326/226112077-3bcaf72f-f311-4090-8154-3d30a62c253f.png) 
 <br/><br/>
 - Reene Cosmetic Ad Campaign Cost analysis
+
+_To download reene cosmetic dataset : [Here](https://github.com/ahmadaszad/Projects/tree/main/Reene%20cosmetic%20dataset)_
 
 (https://public.tableau.com/app/profile/aszad.ahmad/viz/ReneeCosmetics/CostAnalysis)
 
