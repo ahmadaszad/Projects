@@ -7,7 +7,6 @@ _You can also take a look at my Tableau Profile here    :  [Tableau-Profile/Asza
 
 1. **Tableau -**
 
-<br/><br/>
 - Swiggy data Analysis 
 
 _To download swiggy dataset : [Here](https://www.kaggle.com/datasets/aniruddhapa/swiggy-restaurants-dataset-of-metro-cities)_
@@ -34,13 +33,15 @@ To view dashboard in Tableau Public : [Here](https://public.tableau.com/app/prof
 <br/><br/>
 - Atliq Hardware Revenue Analysis
 
-_To download sql dumb file of Atliq hardware: [Here]_
+_To download sql dumb file : [Here](https://github.com/ahmadaszad/Projects/tree/main/Atliq%20Hardware%20sql%20dumb%20file)_
 
 To view dashboard in Tableau Public: [Here](https://public.tableau.com/app/profile/aszad.ahmad/viz/Book1_16773459981730/RevenueAnalysis)
 
 ![Screenshot 2023-03-16 195018](https://user-images.githubusercontent.com/116201326/226185277-1871ee70-a444-4ece-b7f7-53d27e0f5ded.png)
 <br/><br/>
 - Atliq Hardware Profit Analysis
+
+_To download sql dumb file : [Here](https://github.com/ahmadaszad/Projects/tree/main/Atliq%20Hardware%20sql%20dumb%20file)_
 
 To view dasboard in Tableau Public : [Here](https://public.tableau.com/app/profile/aszad.ahmad/viz/ProfitAnalysis_16776013873960/Profitanal)
 
