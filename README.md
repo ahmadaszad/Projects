@@ -48,4 +48,21 @@ To view dasboard in Tableau Public : [Here](https://public.tableau.com/app/profi
 ![Screenshot 2023-03-16 123335](https://user-images.githubusercontent.com/116201326/226185346-f77b4c2f-5761-454d-9d4c-3afb41acce04.png)
 <br/><br/>
 
+- Perform data analysis and create data visualizations using SQL - MySQL for Data Analytics and Business Intelligence, to address business-related questions for management.
+
+   - To provide a yearly breakdown of the male and female employees' distribution working in the company, starting from 1990.
+
+   - Starting from 1990, what are the annual counts of male managers compared to female managers in different departments?
+
+   - Until 2002, what is the average salary comparison between female and male employees across the company in different departments?
+
+   - Within a specified salary range, what are the average salaries for male and female employees in each department?
+ 
+_To download sql dumb file : [Here](https://github.com/ahmadaszad/Projects/tree/main/Atliq%20Hardware%20sql%20dumb%20file)_
+
+To view dasboard in Tableau Public : [Here](https://public.tableau.com/app/profile/aszad.ahmad/viz/ProfitAnalysis_16776013873960/Profitanal)
+
+
+![Screenshot Description](relative/path/to/your/screenshot.png)
+
 
