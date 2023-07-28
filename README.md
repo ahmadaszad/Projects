@@ -58,11 +58,11 @@ To view dasboard in Tableau Public : [Here](https://public.tableau.com/app/profi
 
    - Within a specified salary range, what are the average salaries for male and female employees in each department?
  
-_To download sql dumb file : [Here](https://github.com/ahmadaszad/Projects/tree/main/Atliq%20Hardware%20sql%20dumb%20file)_
+_To download datset : [Here](https://github.com/ahmadaszad/Projects/tree/main/SQL%20-%20MySQL%20for%20Data%20Analytics%20and%20Business%20Intelligence/00.Resources)_
 
 To view dasboard in Tableau Public : [Here](https://public.tableau.com/app/profile/aszad.ahmad/viz/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence_16905607539550/EmployeeInformationDashboard)
 
 
-![Screenshot Description](relative/path/to/your/screenshot.png)
+![Screenshot Description]("C:\Users\ahmad\OneDrive\Pictures\Screenshots\Screenshot 2023-07-28 215317.png")
 
 
