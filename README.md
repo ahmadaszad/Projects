@@ -60,7 +60,7 @@ To view dasboard in Tableau Public : [Here](https://public.tableau.com/app/profi
  
 _To download sql dumb file : [Here](https://github.com/ahmadaszad/Projects/tree/main/Atliq%20Hardware%20sql%20dumb%20file)_
 
-To view dasboard in Tableau Public : [Here](https://public.tableau.com/app/profile/aszad.ahmad/viz/ProfitAnalysis_16776013873960/Profitanal)
+To view dasboard in Tableau Public : [Here]([https://public.tableau.com/app/profile/aszad.ahmad/viz/ProfitAnalysis_16776013873960/Profitanal](https://public.tableau.com/app/profile/aszad.ahmad/viz/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence_16905607539550/EmployeeInformationDashboard)https://public.tableau.com/app/profile/aszad.ahmad/viz/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence_16905607539550/EmployeeInformationDashboard)
 
 
 ![Screenshot Description](relative/path/to/your/screenshot.png)
