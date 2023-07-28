@@ -62,7 +62,9 @@ _To download datset : [Here](https://github.com/ahmadaszad/Projects/tree/main/SQ
 
 To view dasboard in Tableau Public : [Here](https://public.tableau.com/app/profile/aszad.ahmad/viz/IntegratingSQLandTableauforDataAnalyticsandBusinessIntelligence_16905607539550/EmployeeInformationDashboard)
 
+![Screenshot 2023-07-08 201907](https://github.com/ahmadaszad/Projects/assets/116201326/334c999c-05a1-48f7-9076-995c843dcf31)
 
-![Screenshot Description]("C:\Users\ahmad\OneDrive\Pictures\Screenshots\Screenshot 2023-07-28 215317.png")
+
+
 
 
